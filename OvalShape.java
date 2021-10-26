@@ -1,7 +1,7 @@
 /*
  *	===============================================================================
  *	OvalShape.java : A shape that is an oval.
- *  YOUR UPI:hwen554 Name:Hong Weng
+ *  
  *	=============================================================================== */
 import java.awt.*;
 class OvalShape extends Shape {
