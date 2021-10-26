@@ -3,7 +3,7 @@
 /*
  *  ============================================================================================
  *  A1.java : Extends JFrame and contains a panel where shapes move around on the screen.
- *  YOUR UPI: hwen554 Name:Hong Weng
+ *  
  *  ============================================================================================
  */
 import javax.swing.*;
