@@ -1,7 +1,7 @@
 /*
  *	===============================================================================
  *	RectangleShape.java : A shape that is a rectangle.
- *  YOUR UPI:hwen554 Name:Hong Weng
+ *  
  *	=============================================================================== */
 import java.awt.*;
 class RectangleShape extends Shape {
