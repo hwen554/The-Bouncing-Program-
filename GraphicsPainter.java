@@ -1,7 +1,7 @@
 /*
  *  ============================================================================================
  *  Implementation of the Painter interface that delegates drawing to a Graphics object
- *  YOUR UPI: hwen554 Name:Hong Weng
+ *  
  *  ============================================================================================
  */
 import java.awt.*;
