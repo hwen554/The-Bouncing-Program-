@@ -12,6 +12,7 @@ abstract class Shape {
     public static final int DEFAULT_X = 0, DEFAULT_Y = 0, DEFAULT_WIDTH=100, DEFAULT_HEIGHT=50, DEFAULT_MARGIN_WIDTH=600, DEFAULT_MARGIN_HEIGHT=800;
     public static final Color DEFAULT_COLOR=Color.blue;
     public static final String DEFAULT_TEXT = "CS230";
+	
     public int x, y, width=DEFAULT_WIDTH, height=DEFAULT_HEIGHT, marginWidth=DEFAULT_MARGIN_WIDTH, marginHeight=DEFAULT_MARGIN_HEIGHT; // the margin of the animation panel area
     protected MovingPath path = new BouncingPath(1, 2);            // the moving path
     protected Color color=DEFAULT_COLOR;
