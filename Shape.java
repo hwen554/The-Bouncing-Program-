@@ -1,5 +1,5 @@
 /* ==============================================
- *  Shape.java : The superclass of all shapes.
+ *  Shape.java : The superclass of all shapes
  *  A shape defines various properties, including selected, colour, width and height.
  *  
  *  ===============================================================================
